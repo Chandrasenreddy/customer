@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# project-website-templateok changes done by developer ok
-=======
 # project-website-templateok changes done by developer
->>>>>>> 7a8c409 (changes done)
 Demo: https://yenchiah.github.io/project-website-template/
 
 The current version is v3.36, and the last known stable version is [v3.29](https://github.com/yenchiah/project-website-template/tree/8beb079a57e9a7c210d1f612d658955642d8da84).
