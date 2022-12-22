@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # project-website-templateok changes done by developer
 Demo: https://yenchiah.github.io/project-website-template/
 
